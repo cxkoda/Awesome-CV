@@ -9,6 +9,10 @@
 *.toc
 *.pdf
 
+*.synctex.gz
+*.xdv
+*.fdb_latexmk
+
 ## Intermediate documents:
 *.dvi
 *-converted-to.*
